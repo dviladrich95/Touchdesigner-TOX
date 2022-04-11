@@ -1,2 +1,2 @@
 # Touchdesigner-TOX
-Touchdesigner TOX files i have been making
+Touchdesigner TOX files I have been making
